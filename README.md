@@ -26,6 +26,8 @@
   * [Resumo](Resumos/Resumo%20-%20LeCun%20Backpropagation.pdf)
 * Materiais complementares:
   * Vídeo - [Curso do Andrej Karpathy de Redes Neurais - aula de backpropagation](https://www.youtube.com/watch?v=gYpoJMlgyXA)
+  * Artigo (Forbes) - [explosão de startups voltadas NLP+DL](https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/)
+  * Vídeo - [Python](https://www.youtube.com/watch?v=qUeud6DvOWI)
 
 ## Aula 3 - 31/03/2022
 ## Aula 4 - 07/04/2022
