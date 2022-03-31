@@ -22,7 +22,8 @@
   * Artigo: [Deep Neural Nets: 33 years ago and 33 years from now](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
     * [Artigo anotado](Artigos/lecun-89e.pdf)
   * Blog: [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/)
-    * [Blog anotado](Artigos/Deep Neural Nets 33 years ago and 33 years from now.pdf)
+    * [Post anotado](Artigos/Deep%20Neural%20Nets%2033%20years%20ago%20and%2033%20years%20from%20now.pdf)
+  * [Resumo](Resumos/Resumo%20-%20LeCun%20Backpropagation.pdf)
 * Materiais complementares:
   * Vídeo - [Curso do Andrej Karpathy de Redes Neurais - aula de backpropagation](https://www.youtube.com/watch?v=gYpoJMlgyXA)
 
