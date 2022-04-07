@@ -30,6 +30,11 @@
   * Vídeo - [Python](https://www.youtube.com/watch?v=qUeud6DvOWI)
 
 ## Aula 3 - 31/03/2022
+* [Exercício - Backpropagation](Exercicios/Aula3-BackPropagation.ipynb)
+* Notas de aula: [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. Backpropagation Intuitions](https://cs231n.github.io/optimization-2/)
+  * [Nota de aula anotada](Artigos/Notas%20de%20aula%20de%20Stanford%20CS231n%20-%20Backpropagation%20Intuitions.pdf)
+  * [Resumo do artigo](Resumos/Resumo%20-%20Notas%20de%20aula%20Stanford%20CS231n%20-%20Backpropagation%20Intuitions.pdf)
+
 ## Aula 4 - 07/04/2022
 ## Aula 5 - 28/04/2022
 ## Aula 6 - 05/05/2022
