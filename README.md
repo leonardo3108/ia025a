@@ -27,13 +27,18 @@
 * Materiais complementares:
   * Vídeo - [Curso do Andrej Karpathy de Redes Neurais - aula de backpropagation](https://www.youtube.com/watch?v=gYpoJMlgyXA)
   * Artigo (Forbes) - [A Wave Of Billion-Dollar Language AI Startups Is Coming](https://www.forbes.com/sites/robtoews/2022/03/27/a-wave-of-billion-dollar-language-ai-startups-is-coming/) - explosão de startups voltadas para NLP+DL
-  * Vídeo - [Python](https://www.youtube.com/watch?v=qUeud6DvOWI)
+  * Vídeo - Dicas de python: [25 nooby Python habits you need to ditch](https://www.youtube.com/watch?v=qUeud6DvOWI)
+  * Artigo - Estudo sobre diferentes arquiteturas do Transformer - [Do Transformer Modifications Transfer Across Implementations and Applications?](https://arxiv.org/pdf/2102.11972.pdf?ref=https://githubhelp.com)
 
 ## Aula 3 - 31/03/2022
 * [Exercício - Backpropagation](Exercicios/Aula3-BackPropagation.ipynb)
 * Notas de aula: [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. Backpropagation Intuitions](https://cs231n.github.io/optimization-2/)
   * [Nota de aula anotada](Artigos/Notas%20de%20aula%20de%20Stanford%20CS231n%20-%20Backpropagation%20Intuitions.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20Notas%20de%20aula%20Stanford%20CS231n%20-%20Backpropagation%20Intuitions.pdf)
+* Materiais complementares:
+  * Vídeo - [Could a purely self-supervised Foundation Model achieve grounded language understanding?](https://www.youtube.com/watch?v=Tp412ab3kHQ)
+  * Novo modelo de linguagem da Google: [Pathways Language Model - PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+  * Artigo - Historia do aprendizado de máquina com o foco no debate computação vs "engenhosidade humana": [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 ## Aula 4 - 07/04/2022
 * [Exercício - DataLoader MNIST_Softmax Loss](Exercicios/Aula4-Regressao_Softmax_MNIST_SGD_minibatches.ipynb)
@@ -41,10 +46,6 @@
   * [Artigo anotado](Artigos/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper%20-%20anotado.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf)
   * Vídeo: [revisão do artigo](https://youtu.be/Nq3auVtvd9Q)
-* Materiais complementares:
-  * Vídeo - [Could a purely self-supervised Foundation Model achieve grounded language understanding?](https://www.youtube.com/watch?v=Tp412ab3kHQ)
-  * Novo modelo de linguagem da Google: [Pathways Language Model - PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
-  * Artigo - Historia do aprendizado de máquina com o foco no debate computação vs "engenhosidade humana": [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 ## Aula 5 - 28/04/2022
 ## Aula 6 - 05/05/2022
