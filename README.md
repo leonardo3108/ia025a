@@ -40,6 +40,11 @@
 * Artigo: [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
   * [Artigo anotado](Artigos/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper%20-%20anotado.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf)
+  * Vídeo: [revisão do artigo](https://youtu.be/Nq3auVtvd9Q)
+* Materiais complementares:
+  * Vídeo - [Could a purely self-supervised Foundation Model achieve grounded language understanding?](https://www.youtube.com/watch?v=Tp412ab3kHQ)
+  * Novo modelo de linguagem da Google: [Pathways Language Model - PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+  * Artigo - Historia do aprendizado de máquina com o foco no debate computação vs "engenhosidade humana": [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 ## Aula 5 - 28/04/2022
 ## Aula 6 - 05/05/2022
