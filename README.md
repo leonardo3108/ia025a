@@ -50,14 +50,14 @@
 ## Aula 5 - 28/04/2022
 * [Exercício - Implementação de convolução](Exercicios/Aula5-MNIST_Convolucional.ipynb)
 * Artigo: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
- * [Artigo anotado](Artigos/Deep Residual Learning for Image Recognition.pdf)
- * [Resumo do artigo](Resumos/Resumo - Deep Residual Learning for Image Recognition.pdf)
+ * [Artigo anotado](Artigos/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
+ * [Resumo do artigo](Resumos/Resumo%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
 
 ## Aula 6 - 05/05/2022
 * [Exercício 6 - Implementação de bloco residual e dropout](Exercicios/Aula_6_Exercício_ResNet_Dropout.ipynb)
 * Artigo: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
- * [Artigo anotado](Artigos/Learning Transferable Visual Models From Natural Language Supervision.pdf)
- * [Resumo do artigo](Resumos/Resumo – Learning Transferable Visual Models From Natural Language Supervision.pdf)
+ * [Artigo anotado](Artigos/Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
+ * [Resumo do artigo](Resumos/Resumo%20–%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
 
 ## Aula 7 - 12/05/2022
 ## Aula 8 - 19/05/2022
