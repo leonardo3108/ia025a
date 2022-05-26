@@ -4,6 +4,15 @@
 * [Material de cursos passados](https://colab.research.google.com/github/robertoalotufo/rnap/blob/master/PyTorch/0_index.ipynb)
 
 ## Aula 1 - 17/03/2022
+* Introdução ao curso
+  * Regras
+  * Motivação Deep Learning (apresentação)
+* Assuntos
+  * Numpy: 
+    * Operações matriciais
+    * imagens
+    * broadcast
+    * redução de eixo
 * [Exercício de programação Python, NumPy, PyTorch](Exercicios/Aula%201%20-%20Entrega%20-%20Exerc%C3%ADcios%20Introdut%C3%B3rios.ipynb)
 * Leitura de artigo: [LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444.](https://s3.us-east-2.amazonaws.com/hkg-website-assets/static/pages/files/DeepLearning.pdf)
   * [Artigo anotado](Artigos/DeepLearning.pdf)
@@ -17,6 +26,10 @@
   * Postagem - [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/) - Andrej Karpathy - o que mudou no treinamento de redes neurais de 1989 até hoje
 
 ## Aula 2 - 24/03/2022
+* Assuntos
+  * Introdução à redes neurais (1 camada apenas)
+  * Notebooks de Regressão Linear
+  * Notebooks de Regressão Logística
 * [Exercício - Regressão_Linear e Grid de custos](Exercicios/Aula2-Regressão_Linear.ipynb)
 * Leitura/resumo
   * Artigo: [Deep Neural Nets: 33 years ago and 33 years from now](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
@@ -31,6 +44,9 @@
   * Artigo - Estudo sobre diferentes arquiteturas do Transformer - [Do Transformer Modifications Transfer Across Implementations and Applications?](https://arxiv.org/pdf/2102.11972.pdf?ref=https://githubhelp.com)
 
 ## Aula 3 - 31/03/2022
+* Assuntos
+  * Grafo Computacional
+  * Backpropagation
 * [Exercício - Backpropagation](Exercicios/Aula3-BackPropagation.ipynb)
 * Notas de aula: [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. Backpropagation Intuitions](https://cs231n.github.io/optimization-2/)
   * [Nota de aula anotada](Artigos/Notas%20de%20aula%20de%20Stanford%20CS231n%20-%20Backpropagation%20Intuitions.pdf)
@@ -41,6 +57,10 @@
   * Artigo - Historia do aprendizado de máquina com o foco no debate computação vs "engenhosidade humana": [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 ## Aula 4 - 07/04/2022
+* Assuntos
+  * Regressão Logística (Classificador Softmax)
+  * Dataset e Dataloader do Pytorch
+  * Dados de Treinamento, Validação e Testes
 * [Exercício - DataLoader MNIST_Softmax Loss](Exercicios/Aula4-Regressao_Softmax_MNIST_SGD_minibatches.ipynb)
 * Artigo: [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
   * [Artigo anotado](Artigos/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper%20-%20anotado.pdf)
@@ -48,30 +68,55 @@
   * Vídeo: [revisão do artigo](https://youtu.be/Nq3auVtvd9Q)
 
 ## Aula 5 - 28/04/2022
+* Assuntos
+  * Ativações
+  * redes convolucionais
 * [Exercício - Implementação de convolução](Exercicios/Aula5-MNIST_Convolucional.ipynb)
 * Artigo: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
   * [Artigo anotado](Artigos/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
 
 ## Aula 6 - 05/05/2022
+* Assuntos
+  * Transfer Learning
+  * Aumento de dados
+  * BatchNorm/LayerNorm
+  * Conexões residuais
+  * Dropout
+  * Overfit em um batch
 * [Exercício - Implementação de bloco residual e dropout](Exercicios/Aula_6_Exercício_ResNet_Dropout.ipynb)
 * Artigo: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
   * [Artigo anotado](Artigos/Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
   * [Resumo do artigo](Resumos/Resumo%20–%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
 
 ## Aula 7 - 12/05/2022
+* Assuntos
+  * Modelos de Linguagem
+  * Perplexidade
 * [Exercício - Modelo de Linguagem (Bengio 2003) - MLP + Embeddings](Exercicios/Aula_7_LanguageModelBengio_Perplexity.ipynb)
 * Artigo: [A Neural Probabilistic Language Model](https://arxiv.org/pdf/2103.00020.pdf)
   * [Artigo anotado](Artigos/A%20Neural%20Probabilistic%20Language%20Model.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20A%20Neural%20Probabilistic%20Language%20Model.pdf)
 
 ## Aula 8 - 19/05/2022
+* Assuntos
+  * Transformer
+  * Auto-atenção
+  * Normalização dos escores de atenção
 * [Exercício - Implementação de modelo de linguagem com auto-atenção](Exercicios/Aula_8_SelfAttention.ipynb)
 * Artigo: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   * [Artigo anotado](Artigos/Attention%20Is%20All%20You%20Need.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20Attention%20is%20all%20you%20need.pdf)
 
 ## Aula 9 - 26/05/2022
+* Assuntos
+  * Transformer (Decoder-only)
+  * Atenção causal / auto-regressão
+  * Padding
+  * Multi-head
+* Exercício: auto-atenção causal e padding
+* Artigo: GPT-3
+
 ## Aula 10 - 02/06/2022
 ## Aula 11 - 09/06/2022
 ## Aula 12 - 23/06/2022
