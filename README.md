@@ -60,7 +60,17 @@
  * [Resumo do artigo](Resumos/Resumo%20–%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
 
 ## Aula 7 - 12/05/2022
+* [Exercício 7 - Modelo de Linguagem (Bengio 2003) - MLP + Embeddings](Exercicios/Aula_7_LanguageModelBengio_Perplexity.ipynb)
+* Artigo: [A Neural Probabilistic Language Model](https://arxiv.org/pdf/2103.00020.pdf)
+ * [Artigo anotado](Artigos/A%20Neural%20Probabilistic%20Language%20Model.pdf)
+ * [Resumo do artigo](Resumos/Resumo%20-%20A%20Neural%20Probabilistic%20Language%20Model.pdf)
+
 ## Aula 8 - 19/05/2022
+* [Exercício 8 - Implementação de modelo de linguagem com auto-atenção](Exercicios/Aula_8_SelfAttention.ipynb)
+* Artigo: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+ * [Artigo anotado](Artigos/Attention%20Is%20All%20You%20Need.pdf)
+ * [Resumo do artigo](Resumos/Resumo%20-%20Attention%20is%20all%20you%20need.pdf)
+
 ## Aula 9 - 26/05/2022
 ## Aula 10 - 02/06/2022
 ## Aula 11 - 09/06/2022
