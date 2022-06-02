@@ -66,6 +66,9 @@
   * [Artigo anotado](Artigos/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper%20-%20anotado.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf)
   * Vídeo: [revisão do artigo](https://youtu.be/Nq3auVtvd9Q)
+* Materiais complementares:
+  * Vídeo (Chris Potts / Stanford) - Modelos treinados apenas com auto-supervisão são capazes de "entender" o mundo?](https://www.youtube.com/watch?v=Tp412ab3kHQ)
+  * Caderno - [Exemplo de como utilizar a GPU](https://colab.research.google.com/drive/1UF6TZn5005Cx1xy1RBh4ZHcqF-Z4EWkD?usp=sharing)
 
 ## Aula 5 - 28/04/2022
 * Assuntos
@@ -75,6 +78,11 @@
 * Artigo: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
   * [Artigo anotado](Artigos/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
+* Materiais complementares:
+  * Vídeos para melhor entendimento do artigo da semana:
+    * [Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
+    * [C4W2L03 Resnets](https://www.youtube.com/watch?v=ZILIbUvp5lk&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&index=14)
+    * [C4W2L04 Why ResNets Work](https://www.youtube.com/watch?v=RYth6EbBUqM&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&index=15)
 
 ## Aula 6 - 05/05/2022
 * Assuntos
@@ -88,6 +96,11 @@
 * Artigo: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020.pdf)
   * [Artigo anotado](Artigos/Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
   * [Resumo do artigo](Resumos/Resumo%20–%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)
+* Materiais complementares:
+  * Video - [Palestra do Prof. Lotufo sobre os avanços recentes em Processamento de Linguagem Natural](https://www.youtube.com/watch?v=hEmpPfkP3TE&t=1s)
+  * Video (Google) - [Modelo PALM de 540B de parametros capaz de explicar piadas](https://www.youtube.com/watch?v=nP-nMZpLM1A&t=7240s)
+  * Artigos - [Trabalhos da Timnit sobre vieses sociais](https://scholar.google.com/citations?user=lemnAcwAAAAJ
+  * Vídeo - [Documentário da Netflix sobre bias na IA - Coded Bias](https://www.uol.com.br/tilt/noticias/redacao/2021/04/10/coded-bias-da-netflix-prova-como-a-tecnologia-e-racista-e-viola-direitos.htm) 
 
 ## Aula 7 - 12/05/2022
 * Assuntos
@@ -97,6 +110,8 @@
 * Artigo: [A Neural Probabilistic Language Model](https://arxiv.org/pdf/2103.00020.pdf)
   * [Artigo anotado](Artigos/A%20Neural%20Probabilistic%20Language%20Model.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20A%20Neural%20Probabilistic%20Language%20Model.pdf)
+* Materiais complementares:
+  * Artigo - [Batchnorm](https://arxiv.org/pdf/1502.03167.pdf) - seção 3.2: "Note that, since we normalize Wu_b, the bias can be ignored.
 
 ## Aula 8 - 19/05/2022
 * Assuntos
@@ -107,6 +122,10 @@
 * Artigo: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
   * [Artigo anotado](Artigos/Attention%20Is%20All%20You%20Need.pdf)
   * [Resumo do artigo](Resumos/Resumo%20-%20Attention%20is%20all%20you%20need.pdf)
+* Materiais complementares:
+  * Artigo - [Librispeech - dataset bastante popular para avaliar sistemas de reconhecimento da fala](https://paperswithcode.com/sota/speech-recognition-on-librispeech-test-clean)
+  * Artigo - [wav2vec 2.0 - transformer perto do estado da arte para esta reconhecimento da fala](https://arxiv.org/pdf/2006.11477.pdf)
+  * Artigo - [Como diferenças na implementação do transformer geram resultados diferentes](https://arxiv.org/abs/2102.11972)
 
 ## Aula 9 - 26/05/2022
 * Assuntos
@@ -118,6 +137,14 @@
 * Artigo: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
   * [Cópia do artigo](Artigos/Language%20Models%20are%20Few-Shot%20Learners.pdf)
   * [Resumo do artigo](Resumos/Resumo%20–%20Language%20Models%20are%20Few-Shot%20Learners.pdf)
+* Materiais complementares:
+  * Artigos com ilustrações da auto-atenção: 
+    * [Transformer from scratch using pytorch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch/notebook)
+    * [Transformers Explained Visually (Part 3): Multi-head Attention, deep dive](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853#:~:text=Decoder%20Self%2DAttention&text=of%20each%20word.-,This%20is%20fed%20to%20all%20three%20parameters%2C%20Query%2C%20Key%2C,for%20each%20word%20as%20well)
+  * Demo - [BertViz - Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
+  * Artigo - [BERTology](https://arxiv.org/pdf/2002.12327.pdf)
+
+
 
 ## Aula 10 - 02/06/2022
 * Assuntos:
@@ -125,6 +152,8 @@
   * Discussão dos projetos
 * Exercício
 * Artigo
+* Materiais complementares:
+  * Caderno - [Utilização do GPT-J-6B (versão open-source do GPT-3) no colab pro](https://colab.research.google.com/drive/1tclcJWQkfOY-midXBb7SaAdrG5yMl-T-?usp=sharing)
 
 ## Aula 11 - 09/06/2022
 ## Aula 12 - 23/06/2022
