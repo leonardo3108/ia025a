@@ -114,10 +114,18 @@
   * Atenção causal / auto-regressão
   * Padding
   * Multi-head
-* Exercício: auto-atenção causal e padding
-* Artigo: GPT-3
+* [Exercício - Atenção multi-cabeça, auto-atenção causal e padding](Exercicios/Aula_9_MultiheadAttention_Causal.ipynb)
+* Artigo: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+  * [Cópia do artigo](Artigos/Language%20Models%20are%20Few-Shot%20Learners.pdf)
+  * [Resumo do artigo](Resumos/Resumo%20–%20Language%20Models%20are%20Few-Shot%20Learners.pdf)
 
 ## Aula 10 - 02/06/2022
+* Assuntos:
+  * Revisão Transformers
+  * Discussão dos projetos
+* Exercício
+* Artigo
+
 ## Aula 11 - 09/06/2022
 ## Aula 12 - 23/06/2022
 ## Aula 13 - 30/06/2022
