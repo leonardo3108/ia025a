@@ -2,6 +2,7 @@
 
 * [Ementa do curso](ementa.md)
 * [Material de cursos passados](https://colab.research.google.com/github/robertoalotufo/rnap/blob/master/PyTorch/0_index.ipynb)
+* [Apresentações das aulas](Presentation_IA025A_2022S1.pdf)
 
 ## Aula 1 - 17/03/2022
 * Introdução ao curso
@@ -144,22 +145,35 @@
   * Demo - [BertViz - Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
   * Artigo - [BERTology](https://arxiv.org/pdf/2002.12327.pdf)
 
-
-
 ## Aula 10 - 02/06/2022
 * Assuntos:
   * Revisão Transformers
   * Discussão dos projetos
 * Exercício
-* Artigo
+* Artigo: [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+  * [Artigo anotado](Artigos/Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)
+  * [Resumo do artigo](Resumos/Resumo%20–%20Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)
 * Materiais complementares:
   * Caderno - [Utilização do GPT-J-6B (versão open-source do GPT-3) no colab pro](https://colab.research.google.com/drive/1tclcJWQkfOY-midXBb7SaAdrG5yMl-T-?usp=sharing)
 
 ## Aula 11 - 09/06/2022
+* Assuntos:
+  * Image Captioning
+  * Discussão dos projetos
+* Exercício repetido
+* Materiais complementares:
+
 ## Aula 12 - 23/06/2022
+* Apresentação dos planos dos projetos
+
 ## Aula 13 - 30/06/2022
+* Apresentação dos projetos - andamento parcial
+
 ## Aula 14 - 07/07/2022
+* Apresentação dos projetos - andamento parcial
+
 ## Aula 15 - 14/07/2022
+* Apresentação final dos projetos
 
 
 
