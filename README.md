@@ -149,7 +149,7 @@
 * Assuntos:
   * Revisão Transformers
   * Discussão dos projetos
-* Exercício
+* Exercício repetido: [Atenção multi-cabeça, auto-atenção causal e padding](Exercicios/Aula_9_MultiheadAttention_Causal.ipynb)
 * Artigo: [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
   * [Artigo anotado](Artigos/Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)
   * [Resumo do artigo](Resumos/Resumo%20–%20Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)
@@ -161,7 +161,7 @@
 * Assuntos:
   * Image Captioning
   * Discussão dos projetos
-* Exercício repetido
+* Projeto escolhido (Leo/Borela): OpenQA com Few-shot
 * Materiais complementares:
   * Vídeo: [Entrevista com o Geoffrey Hinton (padrinho do deep learning)](https://www.youtube.com/watch?v=2EDP4v-9TUA)
   * Modelo: [Geração de imagens a partir de textos (text-to-image) - DALLE-mini](https://huggingface.co/dalle-mini/dalle-mini)
