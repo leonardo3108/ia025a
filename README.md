@@ -1,4 +1,6 @@
-# IA025 - Introdução ao Aprendizado Profundo - 
+![Unicamp](logo_unicamp.png)
+
+# IA025 - Introdução ao Aprendizado Profundo
 
 ## Materiais principais 
 * [Ementa do curso](ementa.md)
