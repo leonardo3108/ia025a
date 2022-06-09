@@ -5,6 +5,7 @@
 * [Material de cursos passados](https://colab.research.google.com/github/robertoalotufo/rnap/blob/master/PyTorch/0_index.ipynb)
 * [Apresentações das aulas](Presentation_IA025A_2022S1.pdf)
 * [Lista dos exercícios entregues](Exercicios/README.md)
+* [Lista dos artigos lidos, anotados e resumidos](Resumos/README.md)
 
 ## Roteiro das aulas e atividades
 
@@ -55,7 +56,7 @@
 * [Exercício - Backpropagation](Exercicios/Aula3-BackPropagation.ipynb)
 * Notas de aula: [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition. Backpropagation Intuitions](https://cs231n.github.io/optimization-2/)
   * [Nota de aula anotada](Artigos/Notas%20de%20aula%20de%20Stanford%20CS231n%20-%20Backpropagation%20Intuitions.pdf)
-  * [Resumo do artigo](Resumos/Resumo%20-%20Notas%20de%20aula%20Stanford%20CS231n%20-%20Backpropagation%20Intuitions.pdf)
+  * [Resumo da nota](Resumos/Resumo%20-%20Notas%20de%20aula%20Stanford%20CS231n%20-%20Backpropagation%20Intuitions.pdf)
 * Materiais complementares:
   * Vídeo - [Could a purely self-supervised Foundation Model achieve grounded language understanding?](https://www.youtube.com/watch?v=Tp412ab3kHQ)
   * Novo modelo de linguagem da Google: [Pathways Language Model - PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
