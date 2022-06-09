@@ -155,6 +155,7 @@
   * [Resumo do artigo](Resumos/Resumo%20–%20Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)
 * Materiais complementares:
   * Caderno - [Utilização do GPT-J-6B (versão open-source do GPT-3) no colab pro](https://colab.research.google.com/drive/1tclcJWQkfOY-midXBb7SaAdrG5yMl-T-?usp=sharing)
+  * Vídeo: [Yannick Kilchner explicando o GPT-3](https://www.youtube.com/watch?v=SY5PvZrJhLE)
 
 ## Aula 11 - 09/06/2022
 * Assuntos:
@@ -162,6 +163,11 @@
   * Discussão dos projetos
 * Exercício repetido
 * Materiais complementares:
+  * Vídeo: [Entrevista com o Geoffrey Hinton (padrinho do deep learning)](https://www.youtube.com/watch?v=2EDP4v-9TUA)
+  * Modelo: [Geração de imagens a partir de textos (text-to-image) - DALLE-mini](https://huggingface.co/dalle-mini/dalle-mini)
+  * Vídeo: [Jacob Devlin apresentando o BERT](https://www.youtube.com/watch?v=knTc-NQSjKA)
+  * Vídeo: [Visual Transformer (ViT) do Yannic](https://www.youtube.com/watch?v=TrdevFK_am4)
+  * Caderno: [Como rodar o GPT-Neo de 20B parametros no colab](https://colab.research.google.com/drive/1GYRvsOhOlJqOabz6X9oEpzCtqoNM0roW?usp=sharing#scrollTo=IcAeIg0IKrMX)
 
 ## Aula 12 - 23/06/2022
 * Apresentação dos planos dos projetos
