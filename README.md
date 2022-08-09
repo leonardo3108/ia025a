@@ -8,6 +8,11 @@
 * [Apresentações das aulas](Presentation_IA025A_2022S1.pdf)
 * [Lista dos exercícios entregues](Exercicios/README.md)
 * [Lista dos artigos lidos, anotados e resumidos](Resumos/README.md)
+* Projeto final da disciplina:
+  * [Relatório](Relatório_Final_Projeto_exqa-complearning.pdf)
+  * [Apresentação](docs/presentations/CompLearningExQA_final_presentation.pdf)
+  * [Quadro Miro](https://miro.com/app/board/uXjVOr04EAw=/?share_link_id=606867964752)
+  * [Github do projeto](https://github.com/marcusborela/exqa-complearning)
 
 ## Roteiro das aulas e atividades
 
@@ -178,12 +183,22 @@
 
 ### Aula 12 - 23/06/2022
 * Apresentação dos planos dos projetos
+  * [Apresentação inicial](docs/presentations/CompLearningExQA-Presentation-20220623.pdf)
+  * [Github do projeto](https://github.com/marcusborela/exqa-complearning)
 
 ### Aula 13 - 30/06/2022
 * Apresentação dos projetos - andamento parcial
+  * [Apresentação 30/06/2022](docs/presentations/CompLearningExQA-Presentation-20220630.pdf)
+  * [Github do projeto](https://github.com/marcusborela/exqa-complearning)
 
 ### Aula 14 - 07/07/2022
 * Apresentação dos projetos - andamento parcial
+  * [Apresentação 07/07/2022](docs/presentations/CompLearningExQA-Presentation-20220707.pdf)
+  * [Github do projeto](https://github.com/marcusborela/exqa-complearning)
 
 ### Aula 15 - 14/07/2022
 * Apresentação final dos projetos
+  * [Relatório](Relatório_Final_Projeto_exqa-complearning.pdf)
+  * [Apresentação](docs/presentations/CompLearningExQA_final_presentation.pdf)
+  * [Quadro Miro](https://miro.com/app/board/uXjVOr04EAw=/?share_link_id=606867964752)
+  * [Github do projeto](https://github.com/marcusborela/exqa-complearning)
