@@ -9,8 +9,8 @@
 * [Lista dos exercícios entregues](Exercicios/README.md)
 * [Lista dos artigos lidos, anotados e resumidos](Resumos/README.md)
 * Projeto final da disciplina:
-  * [Relatório](Relatório_Final_Projeto_exqa-complearning.pdf)
-  * [Apresentação](docs/presentations/CompLearningExQA_final_presentation.pdf)
+  * [Relatório](https://github.com/marcusborela/exqa-complearning/Relatório_Final_Projeto_exqa-complearning.pdf)
+  * [Apresentação](https://github.com/marcusborela/exqa-complearning/docs/presentations/CompLearningExQA_final_presentation.pdf)
   * [Quadro Miro](https://miro.com/app/board/uXjVOr04EAw=/?share_link_id=606867964752)
   * [Github do projeto](https://github.com/marcusborela/exqa-complearning)
 
